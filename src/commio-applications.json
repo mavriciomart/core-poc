@@ -1,0 +1,14 @@
+{
+  "applications": [
+    {
+      "name": "user-portal",
+      "url": "https://up-poc.netlify.app/user-portal.js",
+      "path": "/user-portal"
+    },
+    {
+      "name": "cm-poc",
+      "url": "https://cm-poc.netlify.app/cm-poc.js",
+      "path": "/cluster-manager"
+    }
+  ]
+}
